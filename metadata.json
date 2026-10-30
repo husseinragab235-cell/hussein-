@@ -1,0 +1,6 @@
+{
+  "name": "أبو العز السوري | Abo El Ezz El Soury",
+  "description": "الموقع الرسمي لمطعم أبو العز السوري - المأكولات الشامية الأصيلة، الشاورما على أصولها، مشويات الفحم، والفتات والمقبلات الدمشقية مع خدمة الطلب المباشر وحجز الطاولات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
